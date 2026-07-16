@@ -37,9 +37,7 @@ I’m currently building **[Midnight](https://midapp.me)**, an education technol
 Repositories and case studies are being prepared for:
 
 - Wearable cardiovascular-data classification
-- FIRST Tech Challenge autonomous navigation and computer vision
 - Education technology platform development
-- Small-business automation systems
 
 
 ## Connect With Me
