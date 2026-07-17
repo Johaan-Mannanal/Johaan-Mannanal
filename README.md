@@ -18,12 +18,7 @@ I’m currently building **[Midnight](https://midapp.me)**, an education technol
 - Product development, user feedback, and launch strategy
 - AI infrastructure and operating-cost optimization
 
-### Current Development Goals
-
-- Building a polished personal portfolio
-- Publishing selected machine-learning and software projects
-- Preparing for technical project teams, research, and internships at Purdue
-- Developing stronger skills in applied data science and software engineering
+Alongside Midnight, I'm preparing for technical project teams, research, and internships at Purdue.
 
 ## Technologies
 
@@ -34,10 +29,9 @@ I’m currently building **[Midnight](https://midapp.me)**, an education technol
 
 ## Selected Projects
 
-Repositories and case studies are being prepared for:
-
-- Wearable cardiovascular-data classification
-- Education technology platform development
+- **[Motorsport Telemetry Analytics](https://github.com/Johaan-Mannanal/motorsport-telemetry-analytics):** Interactive Formula 1 telemetry dashboard that compares two drivers' laps (speed, delta time, sectors, tyres) and includes a transparent tyre-degradation model. Python, FastF1, Streamlit.
+- **[Wearable Health Telemetry ML](https://github.com/Johaan-Mannanal/wearable-health-ml-case-study):** Exploratory comparison of an SVM ensemble, gradient boosting, and a neural network on synthetic wearable cardiovascular data, with a reproducible pipeline, unit tests, and a model card.
+- **[Midnight Product Case Study](https://github.com/Johaan-Mannanal/midnight-product-case-study):** Product and technical case study for an AI-powered student platform, with sanitized architecture and honest metrics (production code kept private).
 
 
 ## Connect With Me
