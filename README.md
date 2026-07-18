@@ -38,4 +38,4 @@ Alongside Midnight, I'm preparing for technical project teams, research, and int
 
 - **LinkedIn:** [linkedin.com/in/johaan-mannanal-03a413284](https://www.linkedin.com/in/johaan-mannanal-03a413284/)
 - **Email:** [johaan.joseph@gmail.com](mailto:johaan.joseph@gmail.com)
-- **Portfolio:** Coming soon
+- **Portfolio:** [portfolio-alpha-sooty-45.vercel.app](https://portfolio-alpha-sooty-45.vercel.app/)
