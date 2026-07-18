@@ -29,7 +29,7 @@ Alongside Midnight, I'm preparing for technical project teams, research, and int
 
 ## Selected Projects
 
-- **[Motorsport Telemetry Analytics](https://github.com/Johaan-Mannanal/motorsport-telemetry-analytics):** Interactive Formula 1 telemetry dashboard that compares two drivers' laps (speed, delta time, sectors, tyres) and includes a transparent tyre-degradation model. Python, FastF1, Streamlit.
+- **[Motorsport Telemetry Analytics](https://github.com/Johaan-Mannanal/motorsport-telemetry-analytics):** Interactive Formula 1 telemetry dashboard comparing two drivers' laps (speed, delta time, sectors, tyres) with a transparent tyre-degradation model. Python analysis, TypeScript front end, live on Vercel.
 - **[Wearable Health Telemetry ML](https://github.com/Johaan-Mannanal/wearable-health-ml-case-study):** Exploratory comparison of an SVM ensemble, gradient boosting, and a neural network on synthetic wearable cardiovascular data, with a reproducible pipeline, unit tests, and a model card.
 - **[Midnight Product Case Study](https://github.com/Johaan-Mannanal/midnight-product-case-study):** Product and technical case study for an AI-powered student platform, with sanitized architecture and honest metrics (production code kept private).
 
