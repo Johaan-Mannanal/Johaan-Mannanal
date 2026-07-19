@@ -36,6 +36,6 @@ Alongside Midnight, I'm preparing for technical project teams, research, and int
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/johaan-mannanal-03a413284](https://www.linkedin.com/in/johaan-mannanal-03a413284/)
+- **LinkedIn:** [linkedin.com/in/mannanal](https://www.linkedin.com/in/mannanal/)
 - **Email:** [johaan.joseph@gmail.com](mailto:johaan.joseph@gmail.com)
 - **Portfolio:** [johaan.dev](https://johaan.dev/)
