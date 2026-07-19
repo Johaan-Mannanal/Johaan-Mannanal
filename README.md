@@ -22,10 +22,10 @@ Alongside Midnight, I'm preparing for technical project teams, research, and int
 
 ## Technologies
 
-**Languages:** Python, Java, JavaScript, HTML, CSS  
-**Data & Machine Learning:** TensorFlow, pandas, NumPy, scikit-learn, Matplotlib  
-**Web Development:** React, Node.js  
-**Tools:** Git, Jupyter, Linux
+**Languages:** Python, TypeScript, JavaScript, SQL, Java  
+**Data & ML:** pandas, NumPy, scikit-learn, Plotly, Matplotlib  
+**Web & Product:** Next.js, React, Node.js, Astro, Streamlit  
+**Infrastructure & Tools:** Git, Docker, Vercel, Supabase, pytest, Linux
 
 ## Selected Projects
 
