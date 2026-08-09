@@ -13,7 +13,7 @@ I’m interested in building practical systems at the intersection of:
 ## What I'm Working On
 
 ### Midnight
-I’m currently building **[Midnight](https://midapp.me)**, an education technology platform focused on AI-assisted academic tools for students.
+I’m currently building **[Midnight](https://midapp.me)**, a personalized AI tutor that turns a student’s actual course material into grounded explanations, practice, and generated visual lessons.
 
 - Product development, user feedback, and launch strategy
 - AI infrastructure and operating-cost optimization
