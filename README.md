@@ -26,12 +26,6 @@ a personalized AI tutor grounded in a student's own course material.
 - The planned evaluation covers missed lesions, false positives, segmentation overlap, and lesion-volume error, with particular attention to small lesions. We will compare existing systems; no model training is currently planned.
 - **Current stage: feasibility and study design.** Research access and dataset compatibility still need confirmation. We are investigating accessible, locally run tools, not claiming clinical equivalence or proven cost savings.
 
-### VITAL at Purdue: Consulting
-
-**Consulting Project Member · September 2026 to present**
-
-- Separately support Vantro Research as a member of a six-person consulting project team.
-
 ## Technologies
 
 **Languages:** Python, TypeScript, JavaScript, SQL, Java\
